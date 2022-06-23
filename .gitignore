@@ -1,0 +1,5 @@
+/.idea
+# Project exclude paths
+/packet-service/target/
+/server/target/
+/store/target/
